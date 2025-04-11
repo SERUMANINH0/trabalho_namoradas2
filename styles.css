@@ -6,12 +6,7 @@
     --cor-secundaria: #FA8484;
     --cor-texto-preto: #000000;
     --cor-de-texto-vermelho: #FD2222;
-<<<<<<< HEAD
 
-=======
-    
-    
->>>>>>> 879f5a62f377c173f5e1cb316812bae0c2583400
     --text-titulo: "Krona One", sans-serif;
     --fonte-secundaria: "Montserrat", sans-serif;
 }
@@ -20,10 +15,6 @@
     margin: 0;
     padding: 0;
     overflow-x: hidden;
-<<<<<<< HEAD
-=======
-    
->>>>>>> 879f5a62f377c173f5e1cb316812bae0c2583400
 }
 
 body {
@@ -45,26 +36,14 @@ body {
     font-family: var(--cor-principal);
     font-size: 1.5rem;
     font-weight: 600;
-<<<<<<< HEAD
     color: var(--cor-de-texto-vermelho);
-=======
-    color: var(--cor-secundaria);
->>>>>>> 879f5a62f377c173f5e1cb316812bae0c2583400
     text-decoration: none;
 }
 
 .cabecalho__menu__link:hover {
-<<<<<<< HEAD
     color: var(--cor-principal);
 }
 
-=======
-color: var(--cor-de-texto-vermelho);
-}
-
-
-
->>>>>>> 879f5a62f377c173f5e1cb316812bae0c2583400
 .apresentacao {
     min-height: 100vh;
     padding: 5%;
@@ -72,10 +51,7 @@ color: var(--cor-de-texto-vermelho);
     display: flex;
     align-items: center;
     justify-content: center;
-<<<<<<< HEAD
     flex-wrap: wrap;
-=======
->>>>>>> 879f5a62f377c173f5e1cb316812bae0c2583400
 }
 
 .apresentacao__conteudo__titulo {
@@ -108,18 +84,12 @@ color: var(--cor-de-texto-vermelho);
     display: flex;
 }
 
-<<<<<<< HEAD
 .apresentacao__imagem,
 .apresentacao__video {
     width: 50%;
     max-width: 400px;
     border-radius: 12px;
     box-shadow: 0 8px 16px rgba(0,0,0,0.2);
-=======
-.apresentacao__imagem {
-    width: 50%;
-    max-width: 400px;
->>>>>>> 879f5a62f377c173f5e1cb316812bae0c2583400
 }
 
 .apresentacao__conteudo__texto__rodape {
@@ -130,11 +100,7 @@ color: var(--cor-de-texto-vermelho);
 .rodape {
     padding: 24px;
     color: var(--cor-principal);
-<<<<<<< HEAD
     background-color: var(--cor-de-texto-vermelho);
-=======
-    background-color: var(--cor-secundaria);
->>>>>>> 879f5a62f377c173f5e1cb316812bae0c2583400
     text-align: center;
     font-family: var(--fonte-secundaria);
     font-size: 1.5rem;
@@ -180,11 +146,7 @@ color: var(--cor-de-texto-vermelho);
     left: 50%;
     width: 2px;
     height: 20px;
-<<<<<<< HEAD
     background-color: var(--cor-de-texto-vermelho);
-=======
-    background-color: #ff6666;
->>>>>>> 879f5a62f377c173f5e1cb316812bae0c2583400
     transform: translateX(-50%);
 }
 
@@ -195,11 +157,7 @@ color: var(--cor-de-texto-vermelho);
     left: 50%;
     width: 15px;
     height: 15px;
-<<<<<<< HEAD
     background-color: var(--cor-de-texto-vermelho);
-=======
-    background-color: #ff6666;
->>>>>>> 879f5a62f377c173f5e1cb316812bae0c2583400
     border-radius: 50%;
     transform: translateX(-50%);
 }
@@ -215,7 +173,6 @@ color: var(--cor-de-texto-vermelho);
     border-radius: 10px;    
 }
 
-<<<<<<< HEAD
 /* Galeria em formato de coração */
 .galeria-coracao {
     position: relative;
@@ -257,10 +214,6 @@ color: var(--cor-de-texto-vermelho);
 .foto-coracao:nth-child(16) { top: 340px; left: 210px; }
 
 @media (max-width: 768px) {
-=======
-@media (max-width: 768px) {
-    
->>>>>>> 879f5a62f377c173f5e1cb316812bae0c2583400
     .cabecalho {
         padding: 5%;
         text-align: center;
@@ -268,19 +221,10 @@ color: var(--cor-de-texto-vermelho);
 
     .cabecalho__menu {
         justify-content: center;
-<<<<<<< HEAD
     }
 
     .cabecalho__menu__link {
         font-size: 1rem;
-=======
-        
-    }
-    
-    .cabecalho__menu__link {
-        font-size: 1rem;
-        
->>>>>>> 879f5a62f377c173f5e1cb316812bae0c2583400
     }
 
     .apresentacao {
@@ -293,15 +237,10 @@ color: var(--cor-de-texto-vermelho);
         width: 95%;
     }
 
-<<<<<<< HEAD
     .apresentacao__imagem,
     .apresentacao__video {
         width: 100%;
         max-width: 100%;
-=======
-    .apresentacao__imagem {
-        width: 80%;
->>>>>>> 879f5a62f377c173f5e1cb316812bae0c2583400
     }
 
     .apresentacao__conteudo__texto {
@@ -310,13 +249,8 @@ color: var(--cor-de-texto-vermelho);
 
     .apresentacao__conteudo__titulo {
         font-size: 2rem;
-<<<<<<< HEAD
     }
 
-=======
-        
-    }
->>>>>>> 879f5a62f377c173f5e1cb316812bae0c2583400
     .rodape {
         font-size: 1rem;
         padding: 24px; 
@@ -346,14 +280,4 @@ color: var(--cor-de-texto-vermelho);
         width: 90%;
         padding: 15px;
     }
-<<<<<<< HEAD
 }
-=======
-
-
-
-
-
-}
-
->>>>>>> 879f5a62f377c173f5e1cb316812bae0c2583400
